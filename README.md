@@ -35,10 +35,17 @@ Each linked project contains:
 - Real-world outcomes
 
 ## 🗂️ Full List of Individual Repositories
+
 [HR Analytics Suite](https://github.com/Sinedd8/HR_analytics_project)
+
 [Power BI: Airbnb Dashboard](https://github.com/Sinedd8/AirBnB-Project)
+
 [ArcGIS Heat Vulnerability (Sydney)](https://github.com/Sinedd8/Sydney_urban_heat_vulnerability)
+
 [Logistics Optimization (Maastricht)](https://github.com/Sinedd8/Service_point_project)
+
 [Microtransaction Economy (CS:GO)](https://github.com/Sinedd8/Microtransaction_Project)
+
 [Gamification for Agroforestry](https://github.com/Sinedd8/Agroforestry_Gamification_in_Uganda)
+
 [Policy-Centric Crop Recommender (Thesis)](https://github.com/Sinedd8/Thesis-Bachelor-s)
